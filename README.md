@@ -42,16 +42,19 @@ Această comandă va descărca toate pachetele necesare definite în package.jso
 
 ⚙️ 4. Comenzi rapide
 
-npm run startCompilează și rulează algoritmii SAT pe testele existente.
+`npm run start`
+Compilează și rulează algoritmii SAT pe testele existente.
 
-npm run generate:tests:<difficulty>Generează teste noi (easy / medium / hard).
+`npm run generate:tests:<difficulty>`
+Generează teste noi (easy / medium / hard).
 
-npm run generate:summaryCreează fișiere CSV cu performanțele fiecarui algorit.
+`npm run generate:summary`
+Creează fișiere CSV cu performanțele fiecarui algorit.
 
 Toate fișierele CSV de ieșire se găsesc în dist/:
 
-dp.summary.csv
+`dp.summary.csv`
 
-dpll.summary.csv
+`dpll.summary.csv`
 
-resolution.summary.csv
+`resolution.summary.csv`
