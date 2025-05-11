@@ -1,4 +1,4 @@
-#SAT Project
+# SAT Project
 
 Acest ghid explică pașii necesari pentru instalarea și configurarea mediului de dezvoltare, precum și modul de rulare a algoritmilor SAT și generarea testelor și rapoartelor CSV cu performanțele algoritmilor.
 
