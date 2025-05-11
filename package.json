@@ -1,0 +1,23 @@
+{
+  "name": "sat",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "./dist/index.js",
+  "scripts": {
+    "start": "npx tsc && MAX_OLD_SPACE_SIZE=4096 node --max-old-space-size=4096 ./dist/index.js",
+    "generate:summary": "npx tsc && node ./dist/computeResults.js",
+    "generate:tests:easy": "npx tsc && TEST_DIFFICULTY=easy MIN_CLAUSES_PER_TEST=4 MAX_CLAUSES_PER_TEST=10 MIN_LITERALS_PER_CLAUSE=1 MAX_LITERALS_PER_CLAUSE=3 MAX_POSSIBLE_VARIABLES=8 node ./dist/tests/generator.js",
+    "generate:tests:medium": "npx tsc && TEST_DIFFICULTY=medium MIN_CLAUSES_PER_TEST=10 MAX_CLAUSES_PER_TEST=20 MIN_LITERALS_PER_CLAUSE=2 MAX_LITERALS_PER_CLAUSE=5 MAX_POSSIBLE_VARIABLES=6 node ./dist/tests/generator.js",
+    "generate:tests:hard": "npx tsc && TEST_DIFFICULTY=hard MIN_CLAUSES_PER_TEST=16 MAX_CLAUSES_PER_TEST=28 MIN_LITERALS_PER_CLAUSE=3 MAX_LITERALS_PER_CLAUSE=6 MAX_POSSIBLE_VARIABLES=10 node ./dist/tests/generator.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.3",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "csv-writer": "^1.6.0"
+  }
+}

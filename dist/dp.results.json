@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "Easy",
+    "data": [
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.172"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.075"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.070"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.052"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.066"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.040"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.022"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.045"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.038"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.038"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.053"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.032"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.029"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.031"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.035"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.105"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.031"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.002"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": false,
+        "maxMemory": "3.626",
+        "time": "0.003"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.005"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.004"
+      }
+    ]
+  },
+  {
+    "id": "Medium",
+    "data": [
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.040"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.032"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.032"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.046"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.082"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.061"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.040"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.041"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.040"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.035"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.043"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.077"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.033"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.076"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.023"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.023"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.028"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.035"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.037"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.025"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.028"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.033"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.048"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.022"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.022"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.254"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.007"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.006"
+      }
+    ]
+  },
+  {
+    "id": "Hard",
+    "data": [
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.038"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.009"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.023"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.024"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.025"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.023"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.022"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.023"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.017"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.021"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.019"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.016"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.014"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.015"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.012"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.011"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.013"
+      },
+      {
+        "sat": true,
+        "maxMemory": "3.626",
+        "time": "0.010"
+      }
+    ]
+  }
+]

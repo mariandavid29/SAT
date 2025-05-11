@@ -1,0 +1,4 @@
+id,averageTime,maxTime,minTime,averageMemory,maxMemory,minMemory,totalEntries,validEntries,skippedEntries,numSAT,numUNSAT
+Easy,18.268,1486.156,0.018,5.327,6.427,4.358,100,100,0,81,19
+Medium,1021.912,5052.653,1.781,7.523,13.23,4.667,100,100,0,95,5
+Hard,3840.779,8142.428,15.414,31.665,42.804,17.414,100,3,97,3,0

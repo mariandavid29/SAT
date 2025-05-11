@@ -1,0 +1,1517 @@
+[
+  {
+    "id": "Easy",
+    "data": [
+      {
+        "sat": false,
+        "maxMemory": "4.358",
+        "time": "0.664"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.555",
+        "time": "1.521"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.592",
+        "time": "0.287"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.221",
+        "time": "1.088"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.651",
+        "time": "4.990"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.743",
+        "time": "1.140"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.798",
+        "time": "0.448"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.984",
+        "time": "10.923"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.028",
+        "time": "0.427"
+      },
+      {
+        "sat": false,
+        "maxMemory": "6.066",
+        "time": "0.259"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.323",
+        "time": "2.354"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.345",
+        "time": "0.195"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.367",
+        "time": "0.178"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.569",
+        "time": "1.691"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.609",
+        "time": "0.330"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.655",
+        "time": "0.461"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.711",
+        "time": "0.551"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.755",
+        "time": "0.598"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.987",
+        "time": "1.934"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.394",
+        "time": "4.081"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.862",
+        "time": "4.055"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.893",
+        "time": "0.214"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.907",
+        "time": "0.125"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.982",
+        "time": "0.706"
+      },
+      {
+        "sat": false,
+        "maxMemory": "5.997",
+        "time": "0.048"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.567",
+        "time": "34.249"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.580",
+        "time": "0.072"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.892",
+        "time": "14.008"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.903",
+        "time": "0.074"
+      },
+      {
+        "sat": false,
+        "maxMemory": "5.975",
+        "time": "0.478"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.319",
+        "time": "12.055"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.663",
+        "time": "3.171"
+      },
+      {
+        "sat": false,
+        "maxMemory": "5.680",
+        "time": "0.139"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.058",
+        "time": "3.687"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.145",
+        "time": "0.813"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.220",
+        "time": "20.588"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.279",
+        "time": "0.722"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.448",
+        "time": "1.834"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.453",
+        "time": "0.026"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.513",
+        "time": "0.467"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.608",
+        "time": "1.050"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.624",
+        "time": "0.133"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.683",
+        "time": "0.626"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.710",
+        "time": "0.151"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.957",
+        "time": "2.701"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.982",
+        "time": "0.178"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.211",
+        "time": "2.605"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.233",
+        "time": "0.072"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.265",
+        "time": "0.397"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.494",
+        "time": "2.346"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.664",
+        "time": "1.646"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.696",
+        "time": "0.247"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.706",
+        "time": "0.069"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.966",
+        "time": "2.489"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.786",
+        "time": "8.098"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.815",
+        "time": "0.277"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.826",
+        "time": "0.069"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.858",
+        "time": "0.289"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.881",
+        "time": "0.137"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.889",
+        "time": "0.046"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.903",
+        "time": "0.059"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.038",
+        "time": "1.118"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.107",
+        "time": "0.629"
+      },
+      {
+        "sat": false,
+        "maxMemory": "5.128",
+        "time": "0.135"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.174",
+        "time": "0.341"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.189",
+        "time": "0.103"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.248",
+        "time": "0.318"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.355",
+        "time": "1.845"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.157",
+        "time": "11.155"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.291",
+        "time": "1.465"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.311",
+        "time": "0.168"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.476",
+        "time": "1.676"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.510",
+        "time": "0.341"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.538",
+        "time": "0.279"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.553",
+        "time": "0.104"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.678",
+        "time": "1.404"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.898",
+        "time": "4.325"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.940",
+        "time": "0.555"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.117",
+        "time": "1.859"
+      },
+      {
+        "sat": false,
+        "maxMemory": "5.130",
+        "time": "0.111"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.159",
+        "time": "0.223"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.980",
+        "time": "1486.156"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.058",
+        "time": "0.815"
+      },
+      {
+        "sat": false,
+        "maxMemory": "6.070",
+        "time": "0.060"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.265",
+        "time": "2.055"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.278",
+        "time": "0.106"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.326",
+        "time": "0.450"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.412",
+        "time": "0.671"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.642",
+        "time": "2.639"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.784",
+        "time": "1.593"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.762",
+        "time": "114.309"
+      },
+      {
+        "sat": false,
+        "maxMemory": "4.771",
+        "time": "0.018"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.168",
+        "time": "4.473"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.353",
+        "time": "14.789"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.365",
+        "time": "0.096"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.427",
+        "time": "1.058"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.275",
+        "time": "12.851"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.291",
+        "time": "0.218"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.356",
+        "time": "0.863"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.363",
+        "time": "0.064"
+      }
+    ]
+  },
+  {
+    "id": "Medium",
+    "data": [
+      {
+        "sat": true,
+        "maxMemory": "5.697",
+        "time": "2472.341"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.638",
+        "time": "15.829"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.667",
+        "time": "14.105"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.120",
+        "time": "42.020"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.563",
+        "time": "133.707"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.427",
+        "time": "232.364"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.584",
+        "time": "106.500"
+      },
+      {
+        "sat": true,
+        "maxMemory": "4.860",
+        "time": "2420.654"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.006",
+        "time": "852.714"
+      },
+      {
+        "sat": false,
+        "maxMemory": "6.268",
+        "time": "1.781"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.533",
+        "time": "305.668"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.373",
+        "time": "5052.653"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.757",
+        "time": "48.073"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.262",
+        "time": "15.527"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.338",
+        "time": "108.064"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.498",
+        "time": "2086.056"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.035",
+        "time": "2377.532"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.942",
+        "time": "107.670"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.675",
+        "time": "2071.254"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.526",
+        "time": "283.145"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.098",
+        "time": "460.329"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.423",
+        "time": "136.489"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.581",
+        "time": "3925.552"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.681",
+        "time": "128.187"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.857",
+        "time": "167.942"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.502",
+        "time": "1501.105"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.913",
+        "time": "4.591"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.754",
+        "time": "3108.235"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.337",
+        "time": "1531.534"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.403",
+        "time": "12.173"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.072",
+        "time": "3687.042"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.448",
+        "time": "4.977"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.043",
+        "time": "96.778"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.617",
+        "time": "478.147"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.670",
+        "time": "336.740"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.636",
+        "time": "607.212"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.635",
+        "time": "1706.414"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.445",
+        "time": "1001.604"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.489",
+        "time": "3723.738"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.948",
+        "time": "14.384"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.957",
+        "time": "2455.222"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.542",
+        "time": "60.889"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.406",
+        "time": "3898.436"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.659",
+        "time": "2802.865"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.483",
+        "time": "4302.646"
+      },
+      {
+        "sat": true,
+        "maxMemory": "5.874",
+        "time": "2019.436"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.892",
+        "time": "139.326"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.329",
+        "time": "4.441"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.497",
+        "time": "10.606"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.836",
+        "time": "63.901"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.042",
+        "time": "705.489"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.555",
+        "time": "522.271"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.736",
+        "time": "190.550"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.088",
+        "time": "17.398"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.319",
+        "time": "262.876"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.126",
+        "time": "100.223"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.154",
+        "time": "2041.421"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.603",
+        "time": "2169.771"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.680",
+        "time": "516.067"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.038",
+        "time": "58.245"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.827",
+        "time": "297.076"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.927",
+        "time": "173.467"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.250",
+        "time": "1532.150"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.855",
+        "time": "78.367"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.642",
+        "time": "2192.787"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.265",
+        "time": "1356.893"
+      },
+      {
+        "sat": false,
+        "maxMemory": "7.612",
+        "time": "42.073"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.868",
+        "time": "775.338"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.759",
+        "time": "1638.457"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.478",
+        "time": "2818.118"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.574",
+        "time": "797.331"
+      },
+      {
+        "sat": true,
+        "maxMemory": "10.043",
+        "time": "2630.807"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.585",
+        "time": "154.231"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.154",
+        "time": "190.788"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.678",
+        "time": "131.452"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.788",
+        "time": "580.099"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.027",
+        "time": "269.395"
+      },
+      {
+        "sat": true,
+        "maxMemory": "6.750",
+        "time": "1536.516"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.550",
+        "time": "435.373"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.560",
+        "time": "985.556"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.307",
+        "time": "1419.576"
+      },
+      {
+        "sat": true,
+        "maxMemory": "10.574",
+        "time": "2042.402"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.757",
+        "time": "4195.839"
+      },
+      {
+        "sat": true,
+        "maxMemory": "10.122",
+        "time": "27.782"
+      },
+      {
+        "sat": true,
+        "maxMemory": "10.538",
+        "time": "3.262"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.378",
+        "time": "208.497"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.014",
+        "time": "2268.374"
+      },
+      {
+        "sat": false,
+        "maxMemory": "8.648",
+        "time": "10.771"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.283",
+        "time": "1131.228"
+      },
+      {
+        "sat": false,
+        "maxMemory": "10.640",
+        "time": "9.482"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.375",
+        "time": "466.676"
+      },
+      {
+        "sat": false,
+        "maxMemory": "7.375",
+        "time": "326.490"
+      },
+      {
+        "sat": true,
+        "maxMemory": "8.086",
+        "time": "34.626"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.551",
+        "time": "22.080"
+      },
+      {
+        "sat": true,
+        "maxMemory": "10.632",
+        "time": "3782.353"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.544",
+        "time": "921.000"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.265",
+        "time": "439.651"
+      },
+      {
+        "sat": true,
+        "maxMemory": "7.423",
+        "time": "829.334"
+      },
+      {
+        "sat": true,
+        "maxMemory": "13.230",
+        "time": "1564.064"
+      },
+      {
+        "sat": true,
+        "maxMemory": "9.267",
+        "time": "148.527"
+      }
+    ]
+  },
+  {
+    "id": "Hard",
+    "data": [
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": true,
+        "maxMemory": "17.414",
+        "time": "8142.428"
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": true,
+        "maxMemory": "34.777",
+        "time": "15.414"
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": true,
+        "maxMemory": "42.804",
+        "time": "3364.495"
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      },
+      {
+        "sat": null,
+        "maxMemory": null,
+        "time": null
+      }
+    ]
+  }
+]
