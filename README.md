@@ -2,13 +2,13 @@
 
 Acest ghid explică pașii necesari pentru instalarea și configurarea mediului de dezvoltare, precum și modul de rulare a algoritmilor SAT și generarea testelor și rapoartelor CSV cu performanțele algoritmilor.
 
-📦 1. Cerințe preliminare
+## 📦 1. Cerințe preliminare
 
 Sistem de operare: Windows / macOS / Linux
 
 Conexiune la internet pentru descărcarea și instalarea uneltelor
 
-1.1. Node.js și npm
+### 1.1. Node.js și npm
 
 Accesează site-ul oficial Node.js: https://nodejs.org/
 
@@ -23,7 +23,7 @@ Verifică că instalarea s-a realizat cu succes:
 node -v   # ar trebui să afișeze versiunea Node.js
 npm -v    # ar trebui să afișeze versiunea npm
 
-🚀 2. Clonarea proiectului
+## 🚀 2. Clonarea proiectului
 
 Deschide terminalul (Command Prompt, PowerShell, Terminal etc.)
 
@@ -32,7 +32,7 @@ Clonează repository-ul:
 git clone <URL_REPO>
 cd sat
 
-🔧 3. Instalarea dependențelor
+## 🔧 3. Instalarea dependențelor
 
 În directorul principal al proiectului, rulează:
 
@@ -40,7 +40,7 @@ npm install
 
 Această comandă va descărca toate pachetele necesare definite în package.json.
 
-⚙️ 4. Comenzi rapide
+## ⚙️ 4. Comenzi rapide
 
 `npm run start`
 Compilează și rulează algoritmii SAT pe testele existente.
